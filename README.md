@@ -1,5 +1,4 @@
-# RECALL (TSE 2026) – Paper-Aligned Implementation
-
+# RECALL
 本仓库为RECALL 端到端在线流程。
 
 ## 快速入口
